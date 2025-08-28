@@ -176,3 +176,13 @@ Constructs W3 and W4 take two integers (k,l) at the start.
 And then count while (W3) k=>l, and (W4) while k<=l.
 
 W5 counts up or down while k=l, depending on whether k<l or k>l.
+
+### Syntax
+Variables x0, x1, x2
+Boolean Expressions b0, b1, b2
+Arithmatic Expressions a0, a1, a2
+List Expressions l0, l1, l2
+Statements S0, S1, S2
+Numerical Expressions n0, n1, n2
+
+

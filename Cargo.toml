@@ -1,6 +1,9 @@
 [package]
 name = "plankalkul-rust"
 version = "0.1.0"
+authors = ["vilgeforta", "<olhnts12@proton.me>"]
 edition = "2024"
 
+
 [dependencies]
+clap = { version = "4.5.46", features = ["derive"] }
